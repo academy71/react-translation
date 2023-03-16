@@ -1,0 +1,12 @@
+{
+  "loginPageTitle": "আপনার অ্যাকাউন্টে সাইন ইন করুন",
+  "yourEmail": "আপনার ইমেইল",
+  "password": "পাসওয়ার্ড",
+  "rememberMe": "আমাকে মনে রেখো",
+  "forgotPassword": "পাসওয়ার্ড ভুলে গেছেন?",
+  "dontHaveAccount": "এখনও একটি অ্যাকাউন্ট নেই?",
+  "signUp": "সাইন আপ",
+  "loginPage": {
+    "signIn": "সাইন ইন"
+  }
+}

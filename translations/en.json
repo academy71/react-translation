@@ -1,0 +1,12 @@
+{
+  "loginPageTitle": "Sign in to your account",
+  "yourEmail": "Your email",
+  "password": "Password",
+  "rememberMe": "Remember me",
+  "forgotPassword": "Forgot password?",
+  "dontHaveAccount": "Don't have an account yet?",
+  "signUp": "Sign up",
+  "loginPage": {
+    "signIn": "Sign in"
+  }
+}
